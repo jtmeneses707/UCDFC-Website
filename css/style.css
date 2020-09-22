@@ -1,4 +1,5 @@
 .navbar {
+    padding-bottom: 2rem;
     font-weight: 900;
     font-size: 1.8rem;
     letter-spacing: .0125rem;
@@ -9,8 +10,15 @@
     padding-right: 2rem;
 }
 
+.navbar-brand{
+    padding-top: 10rem;
+}
 .navbar-brand img{
     height: 5rem;
     padding-left: 1.5rem;
+}
+
+.navbar-custom{
+    background-image: linear-gradient(to bottom, #022a56,#c9d3dd);
 }
 
