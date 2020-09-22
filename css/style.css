@@ -2,8 +2,8 @@
 /*Navi Bar Styling */
 
 .navbar-custom {
-    position: relative;
     background-image: linear-gradient(to bottom, #022a56,#c9d3dd);
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, .1);
 }
 
 
@@ -17,14 +17,14 @@
 }
 
 .nav-item {
-    padding: 0.9rem;
+    padding: 1rem;
 }
 
 .nav-link {
     font-weight: 900;
     font-size: 1.4rem;
     letter-spacing: .02rem;
-    
+    text-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, .6);
 }
 .nav-link:hover {
     background-color: #022a56;
@@ -49,7 +49,6 @@
     color:#fdfdfd;
 }
 
-
-
+/* Navbar Styling Ends */
 
 
