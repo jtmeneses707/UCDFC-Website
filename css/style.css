@@ -50,6 +50,9 @@
     color:#fdfdfd;
 }
 
+/* Carousel Styling */ 
+
+
 /* Body Styling */
 
 
@@ -59,11 +62,12 @@
     height: 100%;
     margin: 0;
     color:#fdfdfd;
+    padding-top: 2rem;
 }
 
 .about-us>h1 {
     text-align: center;
-    font-size:3rem;
+    font-size:2rem;
     font-weight: 600;
     
 }
