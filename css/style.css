@@ -85,8 +85,13 @@
     height: 100%;
 }
 
+ 
 .social-links {
     padding-bottom: 2rem;
+}
+
+.social-links>h1 {
+    
 }
 
 .social-links i {
@@ -94,13 +99,12 @@
 }
  .social-links ul {
     overflow: auto;
-    text-align: center;
+    
 }
 
 .social-links ul li {
     list-style-type: none;
-    float: left;
-    text-align: center;
+    
 }
 
 .social-links ul li a i {
@@ -108,13 +112,11 @@
 	color: #fff;
 	width: 40px;
 	height: 40px;
-	border-radius: 20px;
 	font-size: 25px;
-	text-align: center;
-	margin-right: 10px;
-	padding-top: 15%;
+    padding-top: 15%;
+    text-align: center;
 }
-
+*/
 
 .about-us>p {
     padding-left: 7rem;
