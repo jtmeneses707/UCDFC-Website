@@ -85,17 +85,18 @@
     height: 100%;
 }
 
- 
+
 .social-links {
     padding-bottom: 2rem;
 }
 
 .social-links>h1 {
-    
+    padding-bottom: 2rem;
 }
 
 .social-links i {
     font-size: 5rem;
+    color: #fff;
 }
  .social-links ul {
     overflow: auto;
